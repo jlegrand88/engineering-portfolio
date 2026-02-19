@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.About": {
+    "message": "Sobre mí",
+    "description": "The label for category 'About' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.About.link.generated-index.description": {
+    "message": "...",
+    "description": "The generated-index page description for category 'About' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Skills": {
+    "message": "Habilidades",
+    "description": "The label for category 'Skills' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Skills.link.generated-index.description": {
+    "message": "...",
+    "description": "The generated-index page description for category 'Skills' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Projects": {
+    "message": "Proyectos",
+    "description": "The label for category 'Projects' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Projects.link.generated-index.description": {
+    "message": "...",
+    "description": "The generated-index page description for category 'Projects' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Practices": {
+    "message": "Buenas Prácticas",
+    "description": "The label for category 'Practices' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Practices.link.generated-index.description": {
+    "message": "...",
+    "description": "The generated-index page description for category 'Practices' in sidebar 'tutorialSidebar'"
+  }
+}
