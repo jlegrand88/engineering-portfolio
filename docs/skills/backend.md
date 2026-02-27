@@ -4,6 +4,8 @@ title: 'Backend'
 sidebar_position: 1
 ---
 
+This section outlines my backend engineering experience, including REST API design, modular architectures, authentication flows, asynchronous processing, and scalable deployment strategies across multiple technology stacks.
+
 ## Node.js
 
 - REST API development

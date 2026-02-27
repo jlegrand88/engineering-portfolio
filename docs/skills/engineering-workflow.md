@@ -4,6 +4,8 @@ title: 'Engineering Workflow'
 sidebar_position: 4
 ---
 
+This section describes the methodologies, collaboration models, branching strategies, and engineering practices I apply to deliver maintainable, well-structured, and production-ready software.
+
 ## Agile Methodologies
 
 - Agile and Scrum-based workflows
@@ -27,7 +29,6 @@ sidebar_position: 4
 - Jira
 - ClickUp
 - Bitbucket
-
 - Task tracking and milestone management
 
 ## Platforms & Automation
@@ -36,7 +37,6 @@ sidebar_position: 4
 - GitLab
 - Azure DevOps
 - Bitbucket
-
 - Integrated CI/CD pipelines
 - Automated checks before merge
 - Environment-based deployments

@@ -4,7 +4,8 @@ sidebar_position: 1
 
 # Javier Legrand — Ingeniero de Software
 
-Ingeniero de Software Senior con más de 10 años de experiencia desarrollando aplicaciones web escalables, APIs y plataformas utilizando JavaScript moderno, PHP y tecnologías cloud.
+Ingeniero de Software con experiencia construyendo aplicaciones web escalables, APIs y plataformas modernas utilizando JavaScript, PHP y tecnologías cloud.
+
+Mi enfoque combina desarrollo fullstack, despliegues en la nube y una visión orientada a producto, participando en todo el ciclo de vida del software: arquitectura, implementación, automatización y mantenimiento.
 
 Este portafolio documenta no solo *qué* he construido, sino también *cómo* y *por qué*.
-

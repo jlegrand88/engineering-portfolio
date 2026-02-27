@@ -1,17 +1,20 @@
 ---
+title: Buenas Prácticas
 sidebar_label: Buenas Prácticas
 sidebar_position: 3
 ---
 
+Esta sección describe los estándares, principios y prácticas de ingeniería que aplico para mantener calidad, consistencia y confiabilidad en los proyectos, tanto individuales como en equipo.
+
 ## Buenas Prácticas de Ingeniería
 
-- Clean Code orientado a legibilidad y mantenibilidad
-- Principios SOLID aplicados a diseño de servicios y APIs
-- Separación de responsabilidades
-- Code reviews como parte del flujo de trabajo
-- Testing automatizado (unitario e integración)
-- Manejo de configuración por entorno
-- Documentación técnica clara y actualizada
+- Clean Code orientado a legibilidad y mantenibilidad.
+- Principios SOLID aplicados a diseño de servicios y APIs.
+- Separación de responsabilidades.
+- Code reviews como parte del flujo de trabajo.
+- Testing automatizado (unitario e integración).
+- Manejo de configuración por entorno.
+- Documentación técnica clara y actualizada.
 
 ### Ejemplos reales
 

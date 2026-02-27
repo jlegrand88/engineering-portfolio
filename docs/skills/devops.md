@@ -4,6 +4,8 @@ title: 'DevOps'
 sidebar_position: 3
 ---
 
+This section presents my experience with infrastructure, CI/CD pipelines, containerization, cloud services, and deployment workflows designed for reliability, scalability, and production environments.
+
 ## CI/CD & Automation
 
 - CI/CD pipelines with GitHub Actions

@@ -1,15 +1,15 @@
 {
   "title": {
-    "message": "My Site",
+    "message": "Inicio",
     "description": "The title in the navbar"
   },
   "logo.alt": {
     "message": "My Site Logo",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Tutorial": {
-    "message": "Tutorial",
-    "description": "Navbar item with label Tutorial"
+  "item.label.Portfolio": {
+    "message": "Portafolio",
+    "description": "Navbar item with label Portfolio"
   },
   "item.label.Blog": {
     "message": "Blog",

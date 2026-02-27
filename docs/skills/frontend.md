@@ -4,6 +4,8 @@ title: 'Frontend'
 sidebar_position: 2
 ---
 
+This section covers my frontend engineering experience, including modern web frameworks, SSR/SSG strategies, state management, mobile development with Flutter, and accessible, performance-oriented UI systems.
+
 ## Web Applications
 
 ### React / Next.js

@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'React + Node Sample Project
+sidebar_label: 'React + Node Sample Project'
 title: 'React + Node Sample Project'
 sidebar_position: 1
 ---

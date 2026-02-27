@@ -1,8 +1,8 @@
 {
-  "label": "Skills",
+  "label": "Habilidades",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "..."
+    "description": "Competencias técnicas en frontend, backend, cloud y DevOps, desarrolladas a partir de experiencia práctica construyendo sistemas end-to-end en entornos productivos."
   }
 }

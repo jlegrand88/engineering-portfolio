@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&display=swap');
+
+:root {
+  --ifm-font-family-base: 'Space Grotesk', sans-serif;
+
+  --ifm-color-primary: #5B21B6;
+  --ifm-color-primary-dark: #4C1D95;
+  --ifm-color-primary-darker: #3B0764;
+  --ifm-color-primary-light: #7C3AED;
+  --ifm-color-primary-lighter: #A78BFA;
+  --ifm-color-primary-lightest: #DDD6FE;
+
+  --ifm-background-color: #F3F4F6;
+  --ifm-font-color-base: #1F1F23;
+
+  --nerv-accent: #2CF5A0;
+  --nerv-orange: #EA580C;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #7C3AED;
+  --ifm-color-primary-dark: #6D28D9;
+  --ifm-color-primary-darker: #5B21B6;
+  --ifm-color-primary-light: #8B5CF6;
+  --ifm-color-primary-lighter: #A78BFA;
+  --ifm-color-primary-lightest: #C4B5FD;
+
+  --ifm-background-color: #0A0A0F;
+  --ifm-font-color-base: #E4E4E7;
+
+  --ifm-navbar-background-color: #111118;
+  --ifm-footer-background-color: #111118;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ifm-color-primary-darker);
+}
+
+[data-theme='dark'] h1 {
+  color: var(--ifm-color-primary-light);
+}
+
+h2 {
+  position: relative;
+  padding-bottom: 0.4rem;
+}
+
+h2::after {
+  content: '';
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: var(--nerv-accent);
+  margin-top: 6px;
+}
+
+footer a {
+  color: var(--nerv-orange);
+}
+
+footer a:hover {
+  opacity: 0.8;
+}

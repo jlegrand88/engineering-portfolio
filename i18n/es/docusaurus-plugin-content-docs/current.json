@@ -8,7 +8,7 @@
     "description": "The label for category 'About' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.About.link.generated-index.description": {
-    "message": "...",
+    "message": "Formación en ingeniería, experiencia técnica y principios que guían mi trabajo en backend, frontend, cloud y DevOps.",
     "description": "The generated-index page description for category 'About' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Skills": {
@@ -16,7 +16,7 @@
     "description": "The label for category 'Skills' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Skills.link.generated-index.description": {
-    "message": "...",
+    "message": "Conjunto de habilidades técnicas en backend, frontend, bases de datos, cloud y DevOps, aplicadas en entornos reales y proyectos de producción.",
     "description": "The generated-index page description for category 'Skills' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Projects": {
@@ -24,7 +24,7 @@
     "description": "The label for category 'Projects' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Projects.link.generated-index.description": {
-    "message": "...",
+    "message": "Proyectos desarrollados con enfoque en arquitectura, escalabilidad y buenas prácticas de ingeniería, incluyendo aplicaciones web y móviles.",
     "description": "The generated-index page description for category 'Projects' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Practices": {
@@ -32,7 +32,7 @@
     "description": "The label for category 'Practices' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Practices.link.generated-index.description": {
-    "message": "...",
+    "message": "Metodologías de trabajo, estándares de código y prácticas de ingeniería orientadas a mantenibilidad, colaboración y despliegues seguros.",
     "description": "The generated-index page description for category 'Practices' in sidebar 'tutorialSidebar'"
   }
 }

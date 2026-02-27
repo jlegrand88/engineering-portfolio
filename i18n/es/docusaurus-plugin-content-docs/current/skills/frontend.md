@@ -4,6 +4,8 @@ title: 'Frontend'
 sidebar_position: 2
 ---
 
+Esta sección aborda mi experiencia en desarrollo frontend, incluyendo frameworks modernos, estrategias SSR/SSG, manejo de estado, desarrollo móvil con Flutter y sistemas de interfaz accesibles y orientados al rendimiento.
+
 ## Aplicaciones Web
 
 ### React / Next.js

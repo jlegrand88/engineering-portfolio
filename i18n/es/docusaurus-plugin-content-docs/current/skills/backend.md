@@ -4,6 +4,8 @@ title: 'Backend'
 sidebar_position: 1
 ---
 
+Esta sección describe mi experiencia en ingeniería backend, incluyendo diseño de APIs REST, arquitecturas modulares, flujos de autenticación, procesamiento asíncrono y estrategias de despliegue escalables en distintos stacks tecnológicos.
+
 ## Node.js
 
 - Desarrollo de APIs REST

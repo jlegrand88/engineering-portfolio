@@ -4,6 +4,8 @@ title: 'DevOps'
 sidebar_position: 3
 ---
 
+Esta sección presenta mi experiencia en infraestructura, pipelines CI/CD, contenedores, servicios cloud y flujos de despliegue orientados a confiabilidad, escalabilidad y entornos productivos.
+
 ## CI/CD y Automatización
 
 - Pipelines de CI/CD con GitHub Actions

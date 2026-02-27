@@ -4,6 +4,8 @@ title: 'Flujo de Ingeniería'
 sidebar_position: 4
 ---
 
+Esta sección describe las metodologías, modelos de colaboración, estrategias de branching y prácticas de ingeniería que aplico para entregar software mantenible, estructurado y listo para producción.
+
 ## Metodologías Ágiles
 
 - Trabajo bajo enfoques Agile con base en Scrum
@@ -27,7 +29,6 @@ sidebar_position: 4
 - Jira
 - ClickUp
 - Bitbucket
-
 - Seguimiento de tareas y gestión de milestones
 
 ## Plataformas y Automatización
@@ -36,7 +37,6 @@ sidebar_position: 4
 - GitLab
 - Azure DevOps
 - Bitbucket
-
 - Pipelines CI/CD integradas
 - Validaciones automáticas antes de merge
 - Deploy por entorno con configuraciones diferenciadas

@@ -1,8 +1,8 @@
 {
-  "label": "About",
+  "label": "Sobre mí",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "..."
+    "description": "Formación en ingeniería, experiencia técnica y principios que guían mi trabajo en backend, frontend, cloud y DevOps."
   }
 }
