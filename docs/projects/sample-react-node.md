@@ -1,22 +1,30 @@
 ---
-sidebar_label: 'React + Node Sample Project'
-title: 'React + Node Sample Project'
+sidebar_label: 'Peguitapp: Gig Economy Marketplace'
+title: 'Peguitapp - Fullstack Marketplace'
 sidebar_position: 1
 ---
 
-**Goal:** Demonstrate modern fullstack architecture using React and Node.
+**Goal:** To build a robust and accessible platform for managing informal labor ("peguitas"), connecting service seekers with workers efficiently and securely.
 
-### Stack
-- Frontend: Next.js
-- Backend: Node.js (Express)
-- Auth: JWT
-- CI/CD: GitHub Actions
+### 🚀 Tech Stack
+- **Frontend:** Nuxt 3 (Vue.js) featuring SSR for optimized performance and SEO.
+- **Backend:** Laravel 11 (PHP 8.3) serving as a robust RESTful API.
+- **Styling:** Tailwind CSS + DaisyUI for a responsive, mobile-first design.
+- **Real-time:** Ably integration for live notifications and event broadcasting.
+- **Auth:** Laravel Fortify for industrial-grade session management and security.
 
-### Architecture decisions
-- API-first approach
-- Separation of concerns
-- Environment-based config
+### 🏗️ Architecture Decisions
+- **Mobile-First & Accessibility:** Implementation of custom components (such as a dynamic paginator) to prevent overflow on mobile devices and ensure usability through ARIA standards.
+- **Event-Driven:** Leveraging broadcasting for real-time application updates.
+- **Modularity:** Strict separation of concerns between backend business logic and frontend user experience to ensure maintainability.
 
-### What I would improve
-- Add tests
-- Move backend to NestJS
+### 🛠️ Technical Challenges Overcome
+- **Complex State Management:** Managing the lifecycle of work requests (Draft -> Published -> Completed) with custom server-side validations.
+- **UX Optimization:** Development of reactive filters using Vue's `watch` to allow seamless searching by industry and work type without page reloads.
+
+### 📈 Roadmap & Next Steps
+- **Advanced Security:** Implementing biometric 2FA and geofencing for identity verification within the marketplace.
+- **AR Integration:** An Augmented Reality module for biomechanical feedback and sports/technical training.
+- **Testing:** Full endpoint coverage using Pest (Laravel) and Vitest (Nuxt).
+
+---
