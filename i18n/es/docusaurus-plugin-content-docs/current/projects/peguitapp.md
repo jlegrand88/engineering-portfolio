@@ -4,6 +4,10 @@ title: 'Peguitapp - Fullstack Marketplace'
 sidebar_position: 1
 ---
 
+:::warning[Sitio en Construcción]
+🚧 **Aviso:** Este portfolio y sus proyectos asociados (Peguitapp) se encuentran actualmente en desarrollo activo. Es posible que encuentres funciones en fase Beta o elementos visuales en ajuste. ¡Gracias por tu comprensión!
+:::
+
 :::tip[Proyecto en Vivo]
 🚀 **Puedes ver la aplicación funcionando aquí:** [peguitapp.codewizery.tech](https://peguitapp.codewizery.tech/)
 :::
