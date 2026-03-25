@@ -4,6 +4,10 @@ title: 'Peguitapp - Fullstack Marketplace'
 sidebar_position: 1
 ---
 
+:::tip[Live Project]
+🚀 **Check out the live application here:** [peguitapp.codewizery.tech](https://peguitapp.codewizery.tech/)
+:::
+
 **Goal:** To build a robust and accessible platform for managing informal labor ("peguitas"), connecting service seekers with workers efficiently and securely.
 
 ### 🚀 Tech Stack

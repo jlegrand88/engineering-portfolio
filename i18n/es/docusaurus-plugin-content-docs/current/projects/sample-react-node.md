@@ -4,6 +4,10 @@ title: 'Peguitapp - Fullstack Marketplace'
 sidebar_position: 1
 ---
 
+:::tip[Proyecto en Vivo]
+🚀 **Puedes ver la aplicación funcionando aquí:** [peguitapp.codewizery.tech](https://peguitapp.codewizery.tech/)
+:::
+
 **Meta:** Crear una plataforma robusta y accesible para la gestión de trabajos informales ("peguitas"), conectando solicitantes con trabajadores de forma eficiente y segura.
 
 ### 🚀 Stack Tecnológico
