@@ -1,19 +1,52 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
-  padding: 4rem 0;
+  padding: 5rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  /* Degradado usando tus morados de la paleta */
+  background: linear-gradient(135deg, #3B0764 0%, #111118 100%) !important;
+  border-bottom: 2px solid var(--nerv-accent);
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.hero__title {
+  font-size: 4.5rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -2px;
+  margin-bottom: 0.5rem;
+
+  color: #fff !important; /* Núcleo Blanco */
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px var(--nerv-orange),
+    0 0 20px var(--nerv-orange),
+    0 0 40px var(--nerv-orange);
+}
+
+.hero__subtitle {
+  font-size: 1.8rem;
+  font-weight: 600;
+  /* Usamos el ACENTO VERDE para el subtítulo */
+  color: var(--nerv-accent) !important;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 1.5rem;
+
+  /* --- EL TRUCO DEL NEÓN --- */
+  color: #fff !important; /* Núcleo Blanco (como el foco de luz) */
+  text-shadow:
+    0 0 5px #fff,               /* Brillo blanco interno sutil */
+    0 0 10px var(--nerv-accent), /* Primera capa de color fuerte */
+    0 0 20px var(--nerv-accent), /* Segunda capa de color fuerte */
+    0 0 40px var(--nerv-accent); /* Difuminado suave del color */
+}
+
+.heroDescription {
+  font-size: 1.2rem;
+  color: #E4E4E7;
+  max-width: 700px;
+  margin: 0 auto 2rem;
+  line-height: 1.6;
 }
 
 .buttons {
