@@ -10,6 +10,11 @@ sidebar_position: 2
 
 **Goal:** A technical challenge focused on building a scalable Fullstack boilerplate using a Monorepo architecture, showcasing production-ready integration between React and Express.
 
+### 📸 Media
+
+![Dashboard de Empleados](/img/projects/employees/home.png)
+*Vista principal con integración de Ant Design y API REST.*
+
 ### 🚀 Tech Stack
 - **Frontend:** React 18 / Next.js 14 (Static Export) with TypeScript.
 - **UI Components:** **Ant Design (AntD)** for enterprise-grade interface elements.
@@ -30,5 +35,10 @@ sidebar_position: 2
 ### 🧪 Quality & Roadmap (In Progress)
 - **Unit Testing:** Integrating **Jest & Supertest** for backend logic validation.
 - **Persistence:** Moving from mock data to a PostgreSQL instance.
+
+### 🖼️ Screenshots
+
+![Dashboard de Empleados](/img/projects/employees/modal.png)
+*Modal con integración de Ant Design y API REST.*
 
 ---

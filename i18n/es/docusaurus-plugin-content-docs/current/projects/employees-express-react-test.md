@@ -9,6 +9,11 @@ title: 'Employees: Challenge Técnico React & Express'
 
 **Meta:** Un desafío técnico enfocado en construir un boilerplate Fullstack escalable usando arquitectura de Monorepo, demostrando una integración profesional entre React y Express.
 
+### 📸 Media
+
+![Dashboard de Empleados](/img/projects/employees/home.png)
+*Vista principal con integración de Ant Design y API REST.*
+
 ### 🚀 Stack Tecnológico
 - **Frontend:** React 18 / Next.js 14 (Exportación Estática) con TypeScript.
 - **UI Components:** **Ant Design (AntD)** para componentes de grado empresarial.
@@ -29,5 +34,10 @@ title: 'Employees: Challenge Técnico React & Express'
 ### 🧪 Calidad y Roadmap (En Progreso)
 - **Unit Testing:** Integración de **Jest y Supertest** para la validación de lógica de negocio en el backend.
 - **Persistencia:** Migración de datos mock a una instancia de PostgreSQL.
+
+### 🖼️ Screenshots
+
+![Dashboard de Empleados](/img/projects/employees/modal.png)
+*Modal con integración de Ant Design y API REST.*
 
 ---
