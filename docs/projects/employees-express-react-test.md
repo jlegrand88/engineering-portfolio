@@ -6,6 +6,8 @@ sidebar_position: 2
 
 :::info[Live Project]
 🚀 **Live Demo:** [jlegrand88.github.io/employees-react-express-test/](https://jlegrand88.github.io/employees-react-express-test/)
+
+🐙 **GitHub Repository:** [jlegrand88/employees-react-express-test](https://github.com/jlegrand88/employees-react-express-test)
 :::
 
 **Goal:** A technical challenge focused on building a scalable Fullstack boilerplate using a Monorepo architecture, showcasing production-ready integration between React and Express.
@@ -40,5 +42,8 @@ sidebar_position: 2
 
 ![Dashboard de Empleados](/img/projects/employees/modal.png)
 *Modal con integración de Ant Design y API REST.*
+
+![Dashboard de Empleados](/img/projects/employees/skelleton-while-loading.png)
+*Skelleton while table loading.*
 
 ---

@@ -5,6 +5,8 @@ title: 'Employees: Challenge Técnico React & Express'
 
 :::info[Proyecto en Vivo]
 🚀 **Demo en Vivo:** [jlegrand88.github.io/employees-react-express-test/](https://jlegrand88.github.io/employees-react-express-test/)
+
+🐙 **Repositorio GitHub:** [jlegrand88/employees-react-express-test](https://github.com/jlegrand88/employees-react-express-test)
 :::
 
 **Meta:** Un desafío técnico enfocado en construir un boilerplate Fullstack escalable usando arquitectura de Monorepo, demostrando una integración profesional entre React y Express.
@@ -39,5 +41,8 @@ title: 'Employees: Challenge Técnico React & Express'
 
 ![Dashboard de Empleados](/img/projects/employees/modal.png)
 *Modal con integración de Ant Design y API REST.*
+
+![Dashboard de Empleados](/img/projects/employees/skelleton-while-loading.png)
+*Skelleton while table loading.*
 
 ---
